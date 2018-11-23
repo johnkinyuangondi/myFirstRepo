@@ -1,6 +1,6 @@
 ## My Friends
 
-- Becky
+>- Becky
 - Kawira
 - Henry
 - Vanessa
